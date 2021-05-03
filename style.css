@@ -7,7 +7,7 @@
 .header{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(37, 88, 37, 0.486), rgba(26, 142, 200, 0.637)), url('/images/fac510db7a07e258fa398b1d166b0599.png');
+    background-image: linear-gradient(rgba(22, 31, 22, 0.486), rgba(26, 142, 200, 0.637)), url('/images/fac510db7a07e258fa398b1d166b0599.png');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -144,12 +144,14 @@ h2{
 .header-contactdiv{
     width: 100%;
     height: 400px;
-    background: gray;
+    background: rgb(21, 24, 190);
 }
 .container-contact h2{
     color: #fff;
 }
-
+.text{
+    text-align: center;
+}
 input{
     width: 500px;
     height: 50px;
